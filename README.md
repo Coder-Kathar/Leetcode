@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
+| [3396-valid-word](https://github.com/Coder-Kathar/Leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
