@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Stack
 |  |
 | ------- |
