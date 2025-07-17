@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Coder-Kathar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
