@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
+| [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Database
 |  |
 | ------- |
