@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Coder-Kathar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Coder-Kathar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
