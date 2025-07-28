@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Divide and Conquer
 |  |
 | ------- |
