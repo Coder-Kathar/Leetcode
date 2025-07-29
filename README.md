@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Coder-Kathar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Coder-Kathar/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -206,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
