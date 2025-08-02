@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
+| [0343-integer-break](https://github.com/Coder-Kathar/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Coder-Kathar/Leetcode/tree/master/0118-pascals-triangle) |
+| [0343-integer-break](https://github.com/Coder-Kathar/Leetcode/tree/master/0343-integer-break) |
 ## Monotonic Stack
 |  |
 | ------- |
