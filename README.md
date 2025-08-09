@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/Coder-Kathar/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Coder-Kathar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Coder-Kathar/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
