@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3396-valid-word](https://github.com/Coder-Kathar/Leetcode/tree/master/3396-valid-word) |
+| [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 ## Sliding Window
 |  |
 | ------- |
