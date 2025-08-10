@@ -158,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0961-long-pressed-name](https://github.com/Coder-Kathar/Leetcode/tree/master/0961-long-pressed-name) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1970-sorting-the-sentence](https://github.com/Coder-Kathar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Coder-Kathar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Coder-Kathar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
