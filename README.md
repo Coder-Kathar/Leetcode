@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Coder-Kathar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/Coder-Kathar/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Coder-Kathar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Coder-Kathar/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0961-long-pressed-name](https://github.com/Coder-Kathar/Leetcode/tree/master/0961-long-pressed-name) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Coder-Kathar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
