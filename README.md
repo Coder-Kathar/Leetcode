@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3396-valid-word](https://github.com/Coder-Kathar/Leetcode/tree/master/3396-valid-word) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
+| [3636-check-balanced-string](https://github.com/Coder-Kathar/Leetcode/tree/master/3636-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
