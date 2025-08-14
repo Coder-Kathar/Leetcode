@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Coder-Kathar/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
