@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 ## String
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
