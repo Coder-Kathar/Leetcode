@@ -10,57 +10,26 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode head = null;
+        ListNode dummy = new ListNode(0);
+        ListNode last = dummy;
         int carry = 0;
-        ListNode curr1 = l1;
-        ListNode curr2 = l2;
-        while(curr1 != null && curr2 != null)
+        while(l1 != null || l2 != null || carry > 0)
         {
-            int sum = curr1.val + curr2.val + carry;
-            if(head == null)
+            int sum = carry;
+            if(l1 != null)
             {
-                head = new ListNode(sum % 10);
+                sum += l1.val;
+                l1 = l1.next;
             }
-            else
+            if(l2 != null)
             {
-                ListNode curr = head;
-                while(curr.next!=null)
-                {
-                    curr = curr.next;
-                }
-                curr.next = new ListNode(sum % 10);
+                sum += l2.val;
+                l2 = l2.next;
             }
-            curr1 = curr1.next;
-            curr2 = curr2.next;
+            last.next = new ListNode(sum % 10);
+            last = last.next;
             carry = sum / 10;
         }
-        while(curr1 != null)
-        {
-            int sum = curr1.val + carry;
-            ListNode curr = head;
-            while(curr.next != null)
-                curr = curr.next;
-            curr.next = new ListNode(sum % 10);
-            carry = sum / 10;
-            curr1 = curr1.next;
-        }
-        while(curr2 != null)
-        {
-            int sum = curr2.val + carry;
-            ListNode curr = head;
-            while(curr.next != null)
-                curr = curr.next;
-            curr.next = new ListNode(sum % 10);
-            carry = sum / 10;
-            curr2 = curr2.next;
-        }
-        if(carry > 0)
-        {
-            ListNode curr = head;
-            while(curr.next != null)
-                curr = curr.next;
-            curr.next = new ListNode(carry);
-        }
-        return head;
+        return dummy.next;
     }
 }
