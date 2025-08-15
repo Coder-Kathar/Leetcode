@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Coder-Kathar/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Coder-Kathar/Leetcode/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Coder-Kathar/Leetcode/tree/master/0441-arranging-coins) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Coder-Kathar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Coder-Kathar/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Coder-Kathar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Coder-Kathar/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
