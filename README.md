@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Coder-Kathar/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Coder-Kathar/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Coder-Kathar/Leetcode/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Coder-Kathar/Leetcode/tree/master/0504-base-7) |
