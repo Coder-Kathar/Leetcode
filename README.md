@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1448-maximum-69-number) |
 | [2556-convert-the-temperature](https://github.com/Coder-Kathar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/Coder-Kathar/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Coder-Kathar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Coder-Kathar/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
