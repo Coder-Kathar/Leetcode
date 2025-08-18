@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Coder-Kathar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/Coder-Kathar/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Coder-Kathar/Leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Stack
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0961-long-pressed-name](https://github.com/Coder-Kathar/Leetcode/tree/master/0961-long-pressed-name) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0148-sort-list) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/Coder-Kathar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Coder-Kathar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3859-maximum-product-of-two-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -382,4 +386,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
