@@ -10,32 +10,37 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        int total = 0;
-        ListNode temp = head;
-        while(temp != null)
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null)
         {
-            total += 1;
-            temp = temp.next;
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        System.out.println(total);
-        int count = 0;
+
+        ListNode second = reverse(slow);
+        int maxSum = Integer.MIN_VALUE;
+        ListNode first = head;
+        while(second != null)
+        {
+            int sum = first.val + second.val;
+            maxSum = Math.max(maxSum,sum);
+            first = first.next;
+            second = second.next;
+        }
+        return maxSum;
+    }
+    public static ListNode reverse(ListNode head)
+    {
+        ListNode prev = null;
         ListNode curr = head;
-        Map<Integer,Integer> map = new HashMap<>();
         while(curr != null)
         {
-            map.put(count,curr.val);
-            count++;
-            curr = curr.next;
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
-        int maximum = Integer.MIN_VALUE;
-        for(int i=0;i<total/2;i++)
-        {
-            int val1 = map.get(i);
-            int val2 = map.get((total - 1 - i));
-            int ans = val1 + val2;
-            if(ans > maximum)
-                maximum = ans;
-        }
-        return maximum;
+        return prev;
     }
 }
