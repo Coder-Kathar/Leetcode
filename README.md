@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Coder-Kathar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-merge-in-between-linked-lists](https://github.com/Coder-Kathar/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Coder-Kathar/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Coder-Kathar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
