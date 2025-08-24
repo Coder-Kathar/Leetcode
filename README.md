@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/Coder-Kathar/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2556-convert-the-temperature](https://github.com/Coder-Kathar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/Coder-Kathar/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/Coder-Kathar/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Database
