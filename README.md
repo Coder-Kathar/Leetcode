@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Coder-Kathar/Leetcode/tree/master/0961-long-pressed-name) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1970-sorting-the-sentence](https://github.com/Coder-Kathar/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Coder-Kathar/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
@@ -461,4 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
