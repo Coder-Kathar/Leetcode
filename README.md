@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/Coder-Kathar/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1833-find-the-highest-altitude](https://github.com/Coder-Kathar/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1833-find-the-highest-altitude](https://github.com/Coder-Kathar/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Enumeration
 |  |
 | ------- |
