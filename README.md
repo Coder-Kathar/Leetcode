@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Coder-Kathar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Coder-Kathar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Coder-Kathar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Coder-Kathar/Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Coder-Kathar/Leetcode/tree/master/0204-count-primes) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Coder-Kathar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Coder-Kathar/Leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Coder-Kathar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Coder-Kathar/Leetcode/tree/master/0343-integer-break) |
 | [0875-longest-mountain-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
