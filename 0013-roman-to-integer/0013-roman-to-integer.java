@@ -9,10 +9,10 @@ class Solution {
         map.put('D',500);
         map.put('M',1000);
 
-        int val = map.get(s.charAt(s.length()-1));
-        for(int i=s.length()-2;i>=0;i--)
+        int val = 0;
+        for(int i=0;i<s.length();i++)
         {
-            if(map.get(s.charAt(i)) < map.get(s.charAt(i+1)))
+            if(i+1 < s.length() && map.get(s.charAt(i)) < map.get(s.charAt(i+1)))
                 val -= map.get(s.charAt(i));
             else
                 val += map.get(s.charAt(i));
