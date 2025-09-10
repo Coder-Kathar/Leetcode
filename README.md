@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Coder-Kathar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Coder-Kathar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Coder-Kathar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Coder-Kathar/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Coder-Kathar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Coder-Kathar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Coder-Kathar/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Coder-Kathar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
