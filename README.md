@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Coder-Kathar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/Coder-Kathar/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Coder-Kathar/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Coder-Kathar/Leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Coder-Kathar/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Coder-Kathar/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Coder-Kathar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Coder-Kathar/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
