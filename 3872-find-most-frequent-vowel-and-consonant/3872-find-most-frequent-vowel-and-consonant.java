@@ -12,7 +12,6 @@ class Solution {
             else
                 maxCon = Math.max(maxCon,freq[c-'a']);
         }
-        System.out.println(maxVow + " " + maxCon);
         return maxVow + maxCon;
     }
 }
