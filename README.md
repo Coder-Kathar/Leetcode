@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Coder-Kathar/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Coder-Kathar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Coder-Kathar/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
