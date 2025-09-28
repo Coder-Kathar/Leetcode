@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Coder-Kathar/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Coder-Kathar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Coder-Kathar/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Coder-Kathar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Coder-Kathar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/Coder-Kathar/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Coder-Kathar/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Coder-Kathar/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Coder-Kathar/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
