@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
