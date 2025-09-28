@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1833-find-the-highest-altitude](https://github.com/Coder-Kathar/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Enumeration
 |  |
 | ------- |
