@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Coder-Kathar/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0525-contiguous-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Coder-Kathar/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Coder-Kathar/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Coder-Kathar/Leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Coder-Kathar/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Coder-Kathar/Leetcode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
