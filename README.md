@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Coder-Kathar/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2756-buy-two-chocolates](https://github.com/Coder-Kathar/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Coder-Kathar/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/Coder-Kathar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Coder-Kathar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2756-buy-two-chocolates](https://github.com/Coder-Kathar/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3859-maximum-product-of-two-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Coder-Kathar/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2756-buy-two-chocolates](https://github.com/Coder-Kathar/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Coder-Kathar/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
