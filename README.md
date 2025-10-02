@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3371-harshad-number](https://github.com/Coder-Kathar/Leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Coder-Kathar/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
