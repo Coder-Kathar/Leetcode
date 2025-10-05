@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0816-design-hashset](https://github.com/Coder-Kathar/Leetcode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0835-linked-list-components](https://github.com/Coder-Kathar/Leetcode/tree/master/0835-linked-list-components) |
 | [0875-longest-mountain-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0932-monotonic-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Coder-Kathar/Leetcode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0835-linked-list-components](https://github.com/Coder-Kathar/Leetcode/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Coder-Kathar/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Coder-Kathar/Leetcode/tree/master/0816-design-hashset) |
+| [0835-linked-list-components](https://github.com/Coder-Kathar/Leetcode/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
