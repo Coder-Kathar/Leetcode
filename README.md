@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Coder-Kathar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-design-browser-history](https://github.com/Coder-Kathar/Leetcode/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Coder-Kathar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1582-design-browser-history](https://github.com/Coder-Kathar/Leetcode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Coder-Kathar/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Coder-Kathar/Leetcode/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Coder-Kathar/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -678,9 +681,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Coder-Kathar/Leetcode/tree/master/0816-design-hashset) |
+| [1582-design-browser-history](https://github.com/Coder-Kathar/Leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/Coder-Kathar/Leetcode/tree/master/1582-design-browser-history) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -694,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Coder-Kathar/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
