@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coder-Kathar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Coder-Kathar/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coder-Kathar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coder-Kathar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
