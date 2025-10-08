@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Coder-Kathar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Coder-Kathar/Leetcode/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Coder-Kathar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Coder-Kathar/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
