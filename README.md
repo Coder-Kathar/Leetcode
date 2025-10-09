@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/Coder-Kathar/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Coder-Kathar/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/Coder-Kathar/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Coder-Kathar/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Math
 |  |
