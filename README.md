@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Coder-Kathar/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Coder-Kathar/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Coder-Kathar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Coder-Kathar/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Coder-Kathar/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Coder-Kathar/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Coder-Kathar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3324-split-the-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/Coder-Kathar/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Math
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Coder-Kathar/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Coder-Kathar/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bucket Sort
 |  |
 | ------- |
