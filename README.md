@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/Coder-Kathar/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/Coder-Kathar/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
