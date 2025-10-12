@@ -17,7 +17,6 @@ class Solution {
             count++;
             curr = curr.next;
         }
-        System.out.println(count);
         if(count == n)
             return head.next;
         int itr = count - n;
