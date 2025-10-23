@@ -1,53 +1,41 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length-1);
+        quickSort(nums, 0, nums.length-1);
         return nums;
     }
-    private static void mergeSort(int nums[], int left, int right)
+    private static void quickSort(int nums[], int low, int high)
     {
-        if(left < right)
+        if(low < high)
         {
-            int mid = (left + right) / 2;
-            mergeSort(nums,left,mid);
-            mergeSort(nums,mid+1,right);
-            merge(nums,left,mid,right);
+            int pivotInd = partition(nums, low, high);
+            quickSort(nums,low,pivotInd-1);
+            quickSort(nums,pivotInd+1,high);
         }
     }
-    private static void merge(int nums[], int left, int mid, int right)
+    private static int partition(int nums[], int low, int high)
     {
-        int n1 = mid - left + 1;
-        int n2 = right - mid;
-        int[] L = new int[n1];
-        int[] R = new int[n2];
+        int randInd = low + (int)(Math.random() * (high - low + 1));
+        int pivot = nums[randInd];
 
-        for(int i=0;i<n1;i++)
-        {
-            L[i] = nums[left + i];
-        }
-        for(int j=0;j<n2;j++)
-        {
-            R[j] = nums[mid+1+j];
-        }
+        swap(nums,randInd,high);
 
-        int i=0,j=0,k=left;
-        while(i<n1 && j<n2)
+        int i=low-1;
+        for(int j=low;j<high;j++)
         {
-            if(L[i] <= R[j])
+            if(nums[j] < pivot)
             {
-                nums[k++] = L[i++];
-            }
-            else
-            {
-                nums[k++] = R[j++];
+                i++;
+                swap(nums,i,j);
             }
         }
-        while(i < n1)
-        {
-            nums[k++] = L[i++];
-        }
-        while(j < n2)
-        {
-            nums[k++] = R[j++];
-        }
+
+        swap(nums,i+1,high);
+        return i+1;
+    }
+    private static void swap(int nums[], int i, int j)
+    {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
