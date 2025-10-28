@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coder-Kathar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Coder-Kathar/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Coder-Kathar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
