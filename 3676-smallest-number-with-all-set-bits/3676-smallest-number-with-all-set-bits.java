@@ -1,22 +1,10 @@
 class Solution {
     public int smallestNumber(int n) {
-        int i=n;
-        while(true)
+        int ans = n;
+        while((ans & (ans+1)) != 0)
         {
-            if(isSetBit(i))
-                return i;
-            i++;
+            ans++;
         }
-        // return 0;
-    }
-    private static boolean isSetBit(int n)
-    {
-        while(n != 0)
-        {
-            if((n&1) == 0)
-                return false;
-            n >>= 1;
-        }
-        return true;
+        return ans;
     }
 }
