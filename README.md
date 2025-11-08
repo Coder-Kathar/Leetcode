@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Coder-Kathar/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2048-build-array-from-permutation](https://github.com/Coder-Kathar/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Coder-Kathar/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Coder-Kathar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/Coder-Kathar/Leetcode/tree/master/1642-water-bottles) |
+| [2048-build-array-from-permutation](https://github.com/Coder-Kathar/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Coder-Kathar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Coder-Kathar/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
