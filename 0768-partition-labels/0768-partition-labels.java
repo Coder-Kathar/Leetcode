@@ -1,17 +1,21 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        List<Integer> ans = new ArrayList<>();
-        for(int i=0;i<s.length();)
+        int[] freq = new int[26];
+        for(int i=0;i<s.length();i++)
         {
-            int stInd = i;
-            int endInd = s.lastIndexOf(s.charAt(stInd));
-            for(int j = stInd; j < endInd; j++)
+            freq[s.charAt(i) - 'a'] = i;
+        }
+        List<Integer> ans = new ArrayList<>();
+        int st = 0;
+        int end = 0;
+        for(int i=0;i<s.length();i++)
+        {
+            end = Math.max(end, freq[s.charAt(i) - 'a']);
+            if(end == i)
             {
-                int nextCharInd = s.lastIndexOf(s.charAt(j));
-                endInd = Math.max(endInd, nextCharInd);
+                ans.add(end - st + 1);
+                st = end + 1;
             }
-            ans.add(endInd - stInd + 1);
-            i = endInd + 1;
         }
         return ans;
     }
