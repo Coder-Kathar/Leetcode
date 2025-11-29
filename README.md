@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3463-alternating-groups-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder-Kathar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/Coder-Kathar/Leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Coder-Kathar/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder-Kathar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Coder-Kathar/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
