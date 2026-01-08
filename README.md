@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Coder-Kathar/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Coder-Kathar/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Coder-Kathar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Coder-Kathar/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Coder-Kathar/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
