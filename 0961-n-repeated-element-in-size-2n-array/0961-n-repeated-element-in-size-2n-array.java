@@ -5,14 +5,11 @@ class Solution {
         for(int x : nums)
         {
             map.put(x, map.getOrDefault(x,0)+1);
-        }
-        for(Integer x : map.keySet())
-        {
-            if(map.get(x) == nums.length / 2)
+            if(map.get(x) > 1)
             {
                 ans = x;
                 break;
-            }
+            }        
         }
         return ans;
     }
