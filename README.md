@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Coder-Kathar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Kathar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Coder-Kathar/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Coder-Kathar/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Coder-Kathar/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Coder-Kathar/Leetcode/tree/master/2048-build-array-from-permutation) |
