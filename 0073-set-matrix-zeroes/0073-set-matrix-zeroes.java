@@ -1,33 +1,66 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int r = matrix.length;
-        int c = matrix[0].length;
-        List<Integer> q = new ArrayList<>();
-        for(int i=0;i<r;i++)
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        boolean frowZero = false;
+        boolean fcolZero = false;
+
+        for(int i=0;i<m;i++)
         {
-            for(int j=0;j<c;j++)
+            if(matrix[i][0] == 0)
+            {
+                fcolZero = true;
+                break;
+            }
+        }
+        for(int j=0;j<n;j++)
+        {
+            if(matrix[0][j] == 0)
+            {
+                frowZero = true;
+                break;
+            }
+        }
+
+        for(int i=1;i<m;i++)
+        {
+            for(int j=1;j<n;j++)
             {
                 if(matrix[i][j] == 0)
                 {
-                    q.add(i);
-                    q.add(j);
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
-        for(int i=0;i<q.size();i+=2)
+
+
+        for(int i=1;i<m;i++)
         {
-            doZero(matrix,q.get(i),q.get(i+1));
+            for(int j=1;j<n;j++)
+            {
+                if(matrix[i][0] == 0 || matrix[0][j] == 0)
+                {
+                    matrix[i][j] = 0;
+                }
+            }
         }
-    }
-    void doZero(int[][] matrix, int r, int c)
-    {
-        for(int i=0;i<matrix[0].length;i++)
+
+        if(frowZero)
         {
-            matrix[r][i] = 0;
+            for(int j=0;j<n;j++)
+            {
+                matrix[0][j] = 0;
+            }
         }
-        for(int i=0;i<matrix.length;i++)
+
+        if(fcolZero)
         {
-            matrix[i][c] = 0;
+            for(int i=0;i<m;i++)
+            {
+                matrix[i][0] = 0;
+            }
         }
     }
 }
