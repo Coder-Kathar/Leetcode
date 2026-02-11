@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/Coder-Kathar/Leetcode/tree/master/0835-linked-list-components) |
 | [0841-shortest-distance-to-a-character](https://github.com/Coder-Kathar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0867-transpose-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0932-monotonic-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Coder-Kathar/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Coder-Kathar/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Coder-Kathar/Leetcode/tree/master/2048-build-array-from-permutation) |
