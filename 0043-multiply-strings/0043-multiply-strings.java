@@ -12,7 +12,6 @@ class Solution {
             l.add(ans);
             count++;
         }
-        System.out.println(l);
         String res = l.get(0);
         for(int i=1;i<l.size();i++)
         {
