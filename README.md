@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Coder-Kathar/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coder-Kathar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Coder-Kathar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
