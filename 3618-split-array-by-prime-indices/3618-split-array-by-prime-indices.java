@@ -1,27 +1,28 @@
 class Solution {
     public long splitArray(int[] nums) {
+        int n = nums.length;
+        boolean[] isPrime = new boolean[n];
+        if(n > 2)
+        {
+            Arrays.fill(isPrime, true);
+            isPrime[0] = false;
+            isPrime[1] = false;
+            for(int i=2;i*i<n;i++)
+            {
+                if(isPrime[i])
+                {
+                    for(int j=i*i;j<n;j+=i)
+                        isPrime[j] = false;
+                }
+            }
+        }
         long sumA = 0;
         long sumB = 0;
-        for(int i=0;i<nums.length;i++)
+        for(int i=0;i<n;i++)
         {
-            if(isPrime(i))
-                sumA += nums[i];
-            else
-                sumB += nums[i];
+            if(isPrime[i])  sumA += nums[i];
+            else    sumB += nums[i];
         }
         return Math.abs(sumA - sumB);
-    }
-    private boolean isPrime(int n)
-    {
-        if(n <= 1)
-            return false;
-        if(n == 2)  return true;
-        if(n % 2 == 0)  return false;
-        for(int i=3;i<=Math.sqrt(n);i+=2)
-        {
-            if(n%i==0)
-                return false;
-        }
-        return true;
     }
 }
