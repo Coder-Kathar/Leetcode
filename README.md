@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder-Kathar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
+| [3618-split-array-by-prime-indices](https://github.com/Coder-Kathar/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4058-compute-alternating-sum](https://github.com/Coder-Kathar/Leetcode/tree/master/4058-compute-alternating-sum) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Coder-Kathar/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder-Kathar/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Coder-Kathar/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3618-split-array-by-prime-indices](https://github.com/Coder-Kathar/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Coder-Kathar/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Coder-Kathar/Leetcode/tree/master/3830-find-closest-person) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Coder-Kathar/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3618-split-array-by-prime-indices](https://github.com/Coder-Kathar/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
