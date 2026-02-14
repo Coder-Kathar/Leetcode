@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Coder-Kathar/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Coder-Kathar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Coder-Kathar/Leetcode/tree/master/0500-keyboard-row) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Coder-Kathar/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Coder-Kathar/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Coder-Kathar/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Coder-Kathar/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Coder-Kathar/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0948-sort-an-array) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Coder-Kathar/Leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Coder-Kathar/Leetcode/tree/master/0768-partition-labels) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1448-maximum-69-number) |
