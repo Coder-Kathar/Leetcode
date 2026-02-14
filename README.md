@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/Coder-Kathar/Leetcode/tree/master/0835-linked-list-components) |
 | [0841-shortest-distance-to-a-character](https://github.com/Coder-Kathar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0860-lemonade-change](https://github.com/Coder-Kathar/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0932-monotonic-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0932-monotonic-array) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Coder-Kathar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Coder-Kathar/Leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Coder-Kathar/Leetcode/tree/master/0768-partition-labels) |
+| [0860-lemonade-change](https://github.com/Coder-Kathar/Leetcode/tree/master/0860-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
