@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/Coder-Kathar/Leetcode/tree/master/3636-check-balanced-string) |
 | [3707-equal-score-substrings](https://github.com/Coder-Kathar/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/Coder-Kathar/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Coder-Kathar/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Coder-Kathar/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Coder-Kathar/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3794-reverse-string-prefix](https://github.com/Coder-Kathar/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
