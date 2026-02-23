@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/Coder-Kathar/Leetcode/tree/master/3540-hash-divided-string) |
 | [3541-report-spam-message](https://github.com/Coder-Kathar/Leetcode/tree/master/3541-report-spam-message) |
 | [3636-check-balanced-string](https://github.com/Coder-Kathar/Leetcode/tree/master/3636-check-balanced-string) |
+| [3707-equal-score-substrings](https://github.com/Coder-Kathar/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Coder-Kathar/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Coder-Kathar/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [3707-equal-score-substrings](https://github.com/Coder-Kathar/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Coder-Kathar/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Enumeration
 |  |
