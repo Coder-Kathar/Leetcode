@@ -1,10 +1,15 @@
 class Solution {
     public int maxDistinct(String s) {
-        Map<Character,Integer> map = new HashMap<>();
+        boolean[] freq = new boolean[26];
+        int count = 0;
         for(char c : s.toCharArray())
         {
-            map.put(c, map.getOrDefault(c,0)+1);
+            if(!freq[c-'a'])
+            {
+                freq[c-'a'] = true;
+                count++;
+            }
         }
-        return map.size();
+        return count;
     }
 }
