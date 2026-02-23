@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3174-clear-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/3174-clear-digits) |
 | [3312-number-of-changing-keys](https://github.com/Coder-Kathar/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/Coder-Kathar/Leetcode/tree/master/3396-valid-word) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/Coder-Kathar/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Coder-Kathar/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/3174-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Coder-Kathar/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3540-hash-divided-string](https://github.com/Coder-Kathar/Leetcode/tree/master/3540-hash-divided-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Coder-Kathar/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
