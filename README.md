@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/Coder-Kathar/Leetcode/tree/master/1127-last-stone-weight) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Coder-Kathar/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Coder-Kathar/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Coder-Kathar/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Coder-Kathar/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Coder-Kathar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Coder-Kathar/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -993,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Coder-Kathar/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
