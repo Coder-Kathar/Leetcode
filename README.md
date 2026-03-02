@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Coder-Kathar/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Coder-Kathar/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Coder-Kathar/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Coder-Kathar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Coder-Kathar/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Coder-Kathar/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Coder-Kathar/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/Coder-Kathar/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Coder-Kathar/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
