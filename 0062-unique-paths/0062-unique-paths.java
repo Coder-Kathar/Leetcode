@@ -3,7 +3,7 @@ class Solution {
         int[][] dp = new int[m+1][n+1];
         return count(m,n,dp);
     }
-    private int count(int r, int c, int[][] dp)
+    public int count(int r, int c, int[][] dp)
     {
         if(r == 1 || c == 1)
             return 1;
