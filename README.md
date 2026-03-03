@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Coder-Kathar/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1651-shuffle-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Coder-Kathar/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Coder-Kathar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Coder-Kathar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Coder-Kathar/Leetcode/tree/master/0867-transpose-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Coder-Kathar/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Coder-Kathar/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Coder-Kathar/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Coder-Kathar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Coder-Kathar/Leetcode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
