@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Coder-Kathar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Coder-Kathar/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Coder-Kathar/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Coder-Kathar/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Coder-Kathar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Coder-Kathar/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Coder-Kathar/Leetcode/tree/master/0343-integer-break) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Coder-Kathar/Leetcode/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Rolling Hash
 |  |
@@ -1021,4 +1023,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Coder-Kathar/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Coder-Kathar/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
