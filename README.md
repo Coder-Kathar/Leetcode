@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Coder-Kathar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Coder-Kathar/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Coder-Kathar/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1079-letter-tile-possibilities](https://github.com/Coder-Kathar/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Coder-Kathar/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Coder-Kathar/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Coder-Kathar/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Coder-Kathar/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0961-long-pressed-name](https://github.com/Coder-Kathar/Leetcode/tree/master/0961-long-pressed-name) |
+| [1079-letter-tile-possibilities](https://github.com/Coder-Kathar/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Coder-Kathar/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Coder-Kathar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Coder-Kathar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Coder-Kathar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1079-letter-tile-possibilities](https://github.com/Coder-Kathar/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Coder-Kathar/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Coder-Kathar/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Coder-Kathar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Coder-Kathar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Coder-Kathar/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Coder-Kathar/Leetcode/tree/master/0078-subsets) |
+| [1079-letter-tile-possibilities](https://github.com/Coder-Kathar/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Brainteaser
 |  |
