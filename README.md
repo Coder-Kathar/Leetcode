@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Coder-Kathar/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Coder-Kathar/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2103-rings-and-rods](https://github.com/Coder-Kathar/Leetcode/tree/master/2103-rings-and-rods) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Coder-Kathar/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Coder-Kathar/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Coder-Kathar/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Coder-Kathar/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Coder-Kathar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Coder-Kathar/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2103-rings-and-rods](https://github.com/Coder-Kathar/Leetcode/tree/master/2103-rings-and-rods) |
 | [2109-adding-spaces-to-a-string](https://github.com/Coder-Kathar/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Coder-Kathar/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Coder-Kathar/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
